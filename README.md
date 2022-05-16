@@ -1,6 +1,6 @@
 # MultiClient-ChatApp
-Java multi client chat app 
-Client-Server chatting application.
+
+Client-Server Java chatting application.
 
     ❖ Once the app is started, users are prompted to enter a nickname to begin chatting.
   
