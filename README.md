@@ -2,17 +2,17 @@
 Java multi client chat app 
 Client-Server chatting application.
 
-  ❖ Upon opening the app, users are prompted to enter a nickname to begin chatting.
+    ❖ Once the app is started, users are prompted to enter a nickname to begin chatting.
   
-Key functionalities: 
+Key app functionalities: 
 
-  ❖ Broadcast messages
+    ❖ Broadcast messages
   
-  ❖ Private Message
+    ❖ Private Message
   
-  ❖ Theme selector
+    ❖ Theme selector
   
-  ❖ BUZZ
+    ❖ BUZZ
   
   ![image](https://user-images.githubusercontent.com/89385612/168600404-680b524c-c3c9-48e3-a658-78cd9035949e.png)
 
