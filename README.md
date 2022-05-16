@@ -6,11 +6,11 @@ Client-Server Java chatting application.
   
 Key app functionalities: 
 
-    ❖ Broadcast messages
+    ❖ Broadcast Messages
   
-    ❖ Private Message
+    ❖ Private Messages
   
-    ❖ Theme selector
+    ❖ Theme Selector
   
     ❖ BUZZ
   
